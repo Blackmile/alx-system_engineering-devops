@@ -6,3 +6,5 @@
 5-listfilesdigitonly : Display current directory contents with long format, with user and froup IDs displayed numerically and hidden files.
 6-firstdirectory : To create a new directory.
 7-movethatfile : move files.
+8-firstdelete : to delete files.
+9-firstdirdeletion : to delete folders.
