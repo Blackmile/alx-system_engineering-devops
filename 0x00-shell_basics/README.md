@@ -11,3 +11,4 @@
 10-back : changes the working directory to the previous one.
 11-lists : lists all files (including files beginning with .) in the current directory and the parent of the directory and the boot directory, in a long format.
 12-file_type : prints the type of file.
+13-symbolic_link : to create a symbolic link.
