@@ -7,3 +7,4 @@
 6-mulitple_permissions : adds exe permissions to the owner andgroup owner, and read permissions to other users, to the file.
 7-everybody : adds exe permissions to the owner and group owner and the other users, to the file.
 8-James_Bond : sets the permission to the file.
+9-John_Doe : sets the mode of the file.
