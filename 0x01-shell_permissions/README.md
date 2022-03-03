@@ -4,3 +4,4 @@
 3-new_owner : changes the owner of the file.
 4-empty : creates an empty file.
 5-execute : adds execute permission to the owner of the file.
+6-mulitple_permissions : adds exe permissions to the owner andgroup owner, and read permissions to other users, to the file.
