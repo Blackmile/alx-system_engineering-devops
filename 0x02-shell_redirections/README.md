@@ -5,3 +5,4 @@
 4-lastlines : Displays the last 10 lines of the file.
 5-firstlines : displays the first 10 line of the file.
 6-third_line : displays the third line of the file.
+7-file : creates a new file with text Best School.
