@@ -18,3 +18,6 @@
 17-hidethisword : display all the lines in the file that do not contain the pattern "bin".
 18-letteronly : display all lines of the file starting with a letter.
 19-AZ : Replace characters.
+20-hiago : removes all letters c and C.
+21-reverse : reverse its input.
+22-users_and_homes : displays all users and their home dir, sorted by users.
