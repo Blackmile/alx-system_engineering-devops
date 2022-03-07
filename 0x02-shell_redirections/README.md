@@ -7,3 +7,4 @@
 6-third_line : displays the third line of the file.
 7-file : creates a new file with text Best School.
 8-cwd_state : writes the result of the command ls -la into file.
+9-duplicate_last_line : duplicates the last line of the file.
