@@ -4,3 +4,4 @@
 3-twofiles : displays the contents of etc/passwd and /etc/hosts.
 4-lastlines : Displays the last 10 lines of the file.
 5-firstlines : displays the first 10 line of the file.
+6-third_line : displays the third line of the file.
